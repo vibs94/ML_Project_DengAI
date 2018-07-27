@@ -1,4 +1,4 @@
-# ML_Project_DengAI
+# DENGAI: PREDICTING DISEASE SPREAD
 
 Dengue fever is a mosquito-borne tropical disease caused by the dengue virus. Dengue spread fast
 on high populated areas. Since the population density of San Juan is high compared to Iquitos,
